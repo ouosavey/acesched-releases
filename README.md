@@ -2,7 +2,7 @@
 
 > 家长课程管理助手，高效管理孩子的课外课程、课时、费用和日程
 
-[![Android](https://img.shields.io/badge/Android-1.78.0-green.svg)](https://github.com/ouosavey/acesched-releases/releases)
+[![Android](https://img.shields.io/badge/Android-1.80.0-green.svg)](https://github.com/ouosavey/acesched-releases/releases)
 [![HarmonyOS](https://img.shields.io/badge/HarmonyOS-2.00.11-blue.svg)](https://github.com/ouosavey/acesched-releases/releases)
 
 ## ✨ 功能特性
